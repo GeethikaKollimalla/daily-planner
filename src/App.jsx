@@ -61,7 +61,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1>📅 Daily Planner</h1>
+      <h1> Daily Planner</h1>
 
       <input
         type="text"
