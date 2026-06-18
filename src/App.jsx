@@ -103,7 +103,7 @@ function App() {
         <div key={item.id} className="task-card">
           <h3>{item.task}</h3>
 
-          <p>📅 {item.date}</p>
+          <p> {item.date}</p>
           <p>⏰ {item.time}</p>
           <p>⭐ {item.priority}</p>
 
